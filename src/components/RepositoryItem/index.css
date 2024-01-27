@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.each_repo {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
+  width: 200px;
+}
+.repo_image {
+  height: 35px;
+  width: 35px;
+}
+.repo_heading {
+  font: normal normal 600 18px 'Roboto';
+  color: #e73959;
+}
+
+.same_container {
+  display: flex;
+  align-items: center;
+}
+.stars_icon {
+  height: 15px;
+  width: 15px;
+}
+.headings {
+  font: normal normal 600 12px 'Roboto';
+  color: #1e293b;
+}

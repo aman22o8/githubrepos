@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list_container {
+  margin: 2px;
+}
+.each_btn {
+  border-radius: 16px;
+  height: 32px;
+  width: 80px;
+  border: none;
+  color: #000000;
+  font: normal normal 500 15px 'Roboto';
+  background-color: #ffffff;
+}
+.active_btn {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  background-color: #ffffff;
+}
